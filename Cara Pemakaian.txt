@@ -1,0 +1,15 @@
+Cara PEMakaian Offline
+1. Copy semua isi file program ke folde xampp/htdocs/
+2. Lalu ketik di link google localhost/nama foldernya
+3. selesai
+
+cara online 
+1. buka web "cyberlabstodolist.epizy.com"
+
+Akun 
+admin : Username : Agus Santoso
+              PASSWORD : Agus Santoso
+
+USER    : Username : Fitri Kurnia Mulyani
+              PASSWORD : Fitri Kurnia Mulyani
+

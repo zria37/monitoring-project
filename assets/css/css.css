@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(../../img/about.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Times New Roman';
+}
